@@ -1,0 +1,2 @@
+include ':app', ':skinlibrary', ':skinresource'
+rootProject.name='SkinFrame'
